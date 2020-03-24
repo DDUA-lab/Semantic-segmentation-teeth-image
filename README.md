@@ -14,5 +14,7 @@
 #### There's three main files
 
 > main.py => Using U-net model
+
 > fcn_main.py => Using fcn model
+
 > deeplab_main.py => Using deeplab model
