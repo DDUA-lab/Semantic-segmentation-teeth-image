@@ -11,7 +11,7 @@
 
 #### Using only 50 teeth image and 50 mask image, we can check process of training normally
 
-#### There's three main files
+#### There's three main files. Choose what use model you want
 
 > main.py => Using U-net model
 
