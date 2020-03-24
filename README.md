@@ -18,3 +18,22 @@
 > fcn_main.py => Using fcn model
 
 > deeplab_main.py => Using deeplab model
+
+* each main files have 6 args parsers
+
+> mode
+
+> optim
+
+> loss-function
+
+> epochs
+
+> tricks
+
+> train/validation batches
+
+### example
+```
+$ python main.py --epoch 30 loss-function bce
+```
